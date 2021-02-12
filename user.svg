@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="135" viewBox="0 0 135 135">
+  <g id="Group_428" data-name="Group 428" transform="translate(-206 -179)">
+    <g id="Group_427" data-name="Group 427">
+      <g id="Group_414" data-name="Group 414" transform="translate(206.242 178.609)">
+        <circle id="Ellipse_310" data-name="Ellipse 310" cx="67.5" cy="67.5" r="67.5" transform="translate(-0.242 0.391)" fill="#ececec"/>
+        <ellipse id="Ellipse_309" data-name="Ellipse 309" cx="63" cy="63.5" rx="63" ry="63.5" transform="translate(3.758 4.391)" fill="#fff"/>
+        <g id="Group_413" data-name="Group 413" transform="translate(12.686 9.639)">
+          <g id="Symbols" transform="translate(41.015)">
+            <g id="Head_Front_Short-2" data-name="Head/Front/Short-2" transform="translate(0)">
+              <g id="Head" transform="translate(1.953 3.418)">
+                <path id="Path_1181" data-name="Path 1181" d="M4.034,16.841a13.227,13.227,0,0,1-3.518-9.5C1.249-3.113,15.795-.814,18.624,4.46s2.493,18.652-1.164,19.594C16,24.43,12.9,23.509,9.734,21.6l1.985,14.041H0Z" transform="translate(0 0)" fill="#ffb8b8" fill-rule="evenodd"/>
+              </g>
+              <path id="Hair" d="M55.087,46.611c-1.471-6.543-5.661-11-5.021-13.928a4.436,4.436,0,0,1,3.411-3.637q1.433-5.8,9.245-4.932c7.812.866,12.58,4.11,10.521,11.249-1.893,0-4.178-.685-7.337.488q-1.5.558-2.151,3.462H62.327q-2.079-3.446-4.1-2.533t-.919,4.437l-.7,5.395Z" transform="translate(-50 -24)" fill="#191847" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <g id="Symbols-2" data-name="Symbols" transform="translate(0 28.808)">
+            <g id="Body_Turtle-Neck" data-name="Body/Turtle-Neck" transform="translate(0 0)">
+              <path id="Skin" d="M108.749,79.662l13.832,13.493a41.917,41.917,0,0,1,9.892,5.687c.578.7,1.208,2.033-1.512,1.436s-5.607-1.1-6.119-.22,1,2.24.05,3.4q-.945,1.158-6.354-7.364l-14.384-8.48ZM41.111,67.45l10.692.04q-12.215,39.575-12.968,41.442c-1.13,2.8,1.261,7.064,2.284,9.356-3.33,1.49-2.975-4.028-7.176-2.074-3.834,1.784-6.751,5.016-11.181,2.283-.545-.336-1.141-1.6.3-2.59,3.593-2.463,8.77-6.775,9.469-8.194Q33.962,104.809,41.111,67.45Z" transform="translate(-22.163 -32.206)" fill="#ffb8b8" fill-rule="evenodd"/>
+              <path id="Clothes-Back" d="M0,1.089,4.143,0c8.675,22.842,44.116,35.829,46.972,44.4,1.047,3.144-1.122,4.969.158,5.843l-5.117,4.48c-1.02-1-2.823,1.15-7.07.128S2.427,28.823,0,1.089Z" transform="translate(51.623 3.828) rotate(5)" fill="#008caf" fill-rule="evenodd"/>
+              <path id="Clothes-Front" d="M90.025,3.308c-.487,31.127,17.507,39.067,13.5,51.554-3.31,10.312-34.99,21.4-40.472,11.289a31.585,31.585,0,0,1-3.34-14.42q-2.1,6.2-3.324,10.674c-1.406,5.146-6.858,5.965-6.858,7.947l-7.182-1.982c.487-2.693-2.9-4-1.991-10.022q6.1-40.442,32.788-58.63l.184-2.632a1.953,1.953,0,0,1,2.085-1.812l13.151.92a1.953,1.953,0,0,1,1.812,2.085Z" transform="translate(-31.393 4.731)" fill="#0f91b2" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

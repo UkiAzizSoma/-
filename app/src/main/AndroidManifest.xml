@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.CityHeros.firstProject">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_descriptor"
+        android:icon="@mipmap/ic_lunchere"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_lunchere_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.CityHeros.ABCDE_FragsOfMenuBN.Container"
+            android:parentActivityName="com.CityHeros.A_CodeForIraq.B_Sucka" />
+        <activity
+            android:name="com.CityHeros.ABCD_FragOfMenu.Team"
+            android:parentActivityName="com.CityHeros.A_CodeForIraq.B_Sucka" />
+        <activity
+            android:name="com.CityHeros.ABCD_FragOfMenu.Account"
+            android:parentActivityName="com.CityHeros.A_CodeForIraq.B_Sucka" />
+
+        <activity
+            android:name="com.CityHeros.ABCD_FragOfMenu.AboutCodeForIraq"
+            android:parentActivityName="com.CityHeros.A_CodeForIraq.B_Sucka" />
+        <activity
+            android:name="com.CityHeros.ABCD_FragOfMenu.AboutApp"
+            android:parentActivityName="com.CityHeros.A_CodeForIraq.B_Sucka" />
+        <activity
+            android:name="com.CityHeros.ABCD_FragOfMenu.Study"
+            android:parentActivityName="com.CityHeros.A_CodeForIraq.B_Sucka" />
+        <activity android:name="com.CityHeros.ABCDE_FragsOfMenuBN.NB_Uplaod_Admin" />
+        <activity android:name="com.CityHeros.ABCDE_FragsOfMenuBN.NB_Upload" />
+        <activity android:name="com.CityHeros.ABCD_FragOfMenu.B_CInformations" />
+        <activity android:name="com.CityHeros.ABCD_FragOfMenu.A_CInformations" />
+        <activity
+            android:name="com.CityHeros.A_CodeForIraq.B_Sucka"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.CityHeros.ABC_Register.Rejester_Page"
+            android:parentActivityName="com.CityHeros.AB_Beginning.A_Login_form" />
+        <activity
+            android:name="com.CityHeros.AB_Beginning.A_MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.CityHeros.AB_Beginning.A_Login_form" />
+    </application>
+
+</manifest>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/videos"
+            android:title="@string/vieos"
+            android:icon="@drawable/ic_video_for_frag">
+
+        </item>
+
+        <item android:icon="@drawable/ic_sections"
+            android:id="@+id/study"
+            android:title="@string/study_section"/>
+
+
+        <item android:id="@+id/account"
+               android:title="@string/account"
+               android:icon="@drawable/ic_person"
+
+               />
+
+
+
+
+        <item android:icon="@drawable/ic_library_books_black_24dp"
+            android:id="@+id/lab"
+            android:title="@string/lab_section"/>
+
+        <item android:icon="@drawable/ic_request"
+            android:id="@+id/request"
+            android:title="@string/request"/>
+
+        <item android:icon="@drawable/ic_about_cfi"
+            android:id="@+id/about"
+            android:title="@string/about"/>
+
+        <item android:icon="@drawable/ic_team"
+            android:id="@+id/team"
+
+            android:title="@string/team"/>
+
+        <item android:icon="@drawable/ic_out"
+            android:id="@+id/signout"
+            android:title="@string/signout"/>
+
+
+
+
+
+
+    </group>
+
+
+</menu>

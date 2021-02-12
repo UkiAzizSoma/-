@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043715135786",
+    "firebase_url": "https://cityherosev1.firebaseio.com",
+    "project_id": "cityherosev1",
+    "storage_bucket": "cityherosev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043715135786:android:da44987b8ae4e05e6f6653",
+        "android_client_info": {
+          "package_name": "com.CityHeros.firstProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043715135786-4p17bb7bhvj38vpnmu4dp56sea28mrn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CityHeros.firstProject",
+            "certificate_hash": "fb44768e776d11ef518b2cb94cce3e8f72cb6ea2"
+          }
+        },
+        {
+          "client_id": "1043715135786-7l5n62dvvheaebgv55ncc3k3hnp2t3pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkSzC2jEhFPyzBKG3B6igh4ERZL_mfUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043715135786-7l5n62dvvheaebgv55ncc3k3hnp2t3pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

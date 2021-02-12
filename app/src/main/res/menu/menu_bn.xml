@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/books"
+          android:icon="@drawable/nb_books_icon"
+          android:title="@string/nb_books"
+        >
+
+    </item>
+
+    <item android:id="@+id/fame"
+        android:icon="@drawable/nb_fame"
+        android:title="@string/nb_fame"
+        >
+
+    </item>
+    <item android:id="@+id/rec"
+        android:icon="@drawable/nb_rec"
+        android:title="@string/nb_rec"
+        >
+
+    </item>
+
+
+
+</menu>
